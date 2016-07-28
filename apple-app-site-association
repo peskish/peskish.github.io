@@ -5,7 +5,7 @@
       {
         "appID": "C69Q9E6SNL.ru.rarus.CEOboard",
         "paths": [
-          "*"
+          "ceoboard/login/ios/*"
         ]
       }
     ]
